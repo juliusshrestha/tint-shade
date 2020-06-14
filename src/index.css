@@ -1,0 +1,10 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+:focus {
+  outline: none;
+}
+::-moz-focus-inner {
+  border: 0;
+}

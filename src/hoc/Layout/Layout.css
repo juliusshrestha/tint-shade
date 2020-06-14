@@ -1,0 +1,11 @@
+.Content {
+  margin-top: 60px;
+}
+body {
+  color: #485e74;
+  line-height: 1.6;
+
+  font-family: "Open Sans", sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+}

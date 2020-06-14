@@ -1,0 +1,33 @@
+.footer {
+  height: 100%;
+  width: 100%;
+
+  box-sizing: border-box;
+  margin-top: 20px;
+  background-color: black;
+  text-align: center;
+}
+
+.footer2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2em;
+  box-sizing: border-box;
+  z-index: 90;
+  color: white;
+}
+
+.about,
+.quickNav,
+.quickCon {
+  width: 100%;
+  height: 100px;
+  margin: 2px;
+}
+.cpy {
+  color: white;
+  margin: 0;
+  padding: 1em;
+}
